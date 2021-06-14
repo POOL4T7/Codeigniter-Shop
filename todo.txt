@@ -1,0 +1,10 @@
+added ->
+     which browser
+     search option (completed')
+     pagination (completed)
+     complete cart (repeat order)
+
+add->
+    places(api) (not working)
+    payment (upi,COD,payPal)
+    email functionality

@@ -1,0 +1,9 @@
+{
+	"require": {
+		"ezyang/htmlpurifier": "^4.13",
+		"google/apiclient": "^2.0",
+		"facebook/php-sdk-v4": "~5.0",
+		"whichbrowser/parser": "^2.1",
+		"phpmailer/phpmailer": "^6.4"
+	}
+}

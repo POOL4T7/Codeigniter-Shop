@@ -1,0 +1,10 @@
+body {
+	width: 100%;
+}
+form .row {
+	--bs-gutter-x: none;
+}
+
+table tbody tr td a {
+	text-decoration: none;
+}

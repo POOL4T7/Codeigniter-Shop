@@ -1,0 +1,22 @@
+.shop_form {
+	background-color: #f8f9fa !important;
+	box-shadow: 0 2px 5px 0 rgb(150, 182, 163), 2px 7px 0 rgb(230, 235, 232);
+	max-width: 580px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+	border-radius: 10px;
+	padding: 10px;
+	border: 2px solid transparent;
+}
+input[type="text"]{
+	border-radius: 12px;
+}
+
+#form-title {
+	text-align: center;
+	text-shadow: 2px 2px rgb(211, 205, 205);
+}
+#shop-btn:hover {
+	transform: scale(1.05);
+	transition: 500ms;
+}

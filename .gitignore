@@ -11,6 +11,7 @@ application/logs/*
 static/images
 application/config/config.php
 application/config/database.php
+application/libraries/Common.php
 
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
